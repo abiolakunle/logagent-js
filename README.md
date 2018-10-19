@@ -114,3 +114,5 @@ Start/stop service:
 * Update to the last node version
 * From root folder node type: node ./bin/logagent -h
 * To test from root folder type: node test
+
+::wink
